@@ -11,7 +11,7 @@
 	<groupId>com.kamit9171</groupId>
 	<artifactId>coinBackend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>coinBackend</name>
+	<name>demo</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
